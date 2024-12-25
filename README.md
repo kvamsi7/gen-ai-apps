@@ -6,7 +6,7 @@ This repository contains a collection of Generative AI applications I've develop
 
 ## Applications
 
-### 1. **Q&A Chatbot**
+### 1. **[Q&A Chatbot](https://github.com/kvamsi7/gen-ai-apps/tree/main/Q%26A-Chatbot)**
 - **Description**: An interactive chatbot built with Streamlit and LangChain. This application uses the `llama2` model via Ollama LLM to answer user queries with clarity and accuracy. It integrates Langsmith for tracking and debugging prompts.
 - **Key Features**:
   - User-friendly web interface for asking questions.
