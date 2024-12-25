@@ -9,6 +9,10 @@ This project is a simple Q&A chatbot built using Streamlit, LangChain, and the O
 - Powered by **LangChain's Ollama LLM** (`llama2` model).
 - Integrated with Langsmith for prompt tracking and debugging.
 
+## Running Sample
+
+Q&A Chatbot in action:
+![Q&A Chatbot Running Sample](image.png)
 ---
 
 ## Installation
