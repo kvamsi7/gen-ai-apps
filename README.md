@@ -15,7 +15,7 @@ This repository contains a collection of Generative AI applications I've develop
 
 ---
 
-### 2. **[RAG Document Q&A](https://github.com/kvamsi7/gen-ai-apps/tree/main/RAG-Document-QA)**
+### 2. **[RAG Document Q&A](https://github.com/kvamsi7/gen-ai-apps/tree/main/RAG-Document-Q%26A)**
 - **Description**: A Retrieval-Augmented Generation (RAG) based Q&A system built with Streamlit and LangChain, utilizing FAISS for vector storage and document retrieval. This application answers user queries based on ingested research papers.
 - **Key Features**:
   - Uses `ChatGroq` with the `deepseek-r1-distill-llama-70b` model for response generation.
