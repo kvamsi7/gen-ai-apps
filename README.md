@@ -14,3 +14,14 @@ This repository contains a collection of Generative AI applications I've develop
   - Tracks and monitors prompt efficiency using Langsmith.
 
 ---
+
+### 2. **[RAG Document Q&A](https://github.com/kvamsi7/gen-ai-apps/tree/main/RAG-Document-QA)**
+- **Description**: A Retrieval-Augmented Generation (RAG) based Q&A system built with Streamlit and LangChain, utilizing FAISS for vector storage and document retrieval. This application answers user queries based on ingested research papers.
+- **Key Features**:
+  - Uses `ChatGroq` as the LLM for response generation.
+  - Supports multiple embedding models including Hugging Face, OpenAI, and Ollama.
+  - Ingests research papers using `PyPDFDirectoryLoader` and processes them with `RecursiveCharacterTextSplitter`.
+  - Efficient document retrieval using FAISS vector database.
+  - Real-time document similarity analysis and response generation.
+  - Streamlit interface for easy interaction and document embedding.
+
