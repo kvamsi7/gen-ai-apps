@@ -25,3 +25,16 @@ This repository contains a collection of Generative AI applications I've develop
   - Real-time document similarity analysis and response generation.
   - Streamlit interface for easy interaction and document embedding.
 
+
+### 3. **[Conversational chat with PDFs](https://github.com/kvamsi7/gen-ai-apps/tree/main/Conversational-RAG-with-PDF-Uploads-and-Chat-History)**
+- **Description**: A Retrieval-Augmented Generation (RAG) system for PDF documents and chat history. This application allows users to upload PDFs, ask questions related to their content, and interact with the document data using context-aware responses. It combines PDF parsing, chat history management, and Groq LLM integration.
+- **Key Features**:
+  - Uploads multiple PDF files and parses their content.
+  - Generates embeddings using HuggingFace embeddings.
+  - Stores and manages chat history for a conversational experience.
+  - Retrieves document-related information using RAG approach for precise answers.
+  - Streamlit interface for seamless interaction.
+  - Real-time document similarity analysis and Q&A system using the Groq API.
+  - Temporary PDF files are deleted after processing.
+
+---
