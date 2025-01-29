@@ -26,7 +26,7 @@ This repository contains a collection of Generative AI applications I've develop
   - Streamlit interface for easy interaction and document embedding.
 
 
-### 3. **[Conversational chat with PDFs](https://github.com/kvamsi7/gen-ai-apps/tree/main/Conversational-RAG-with-PDF-Uploads-and-Chat-History)**
+### 3. **[Conversational chat with PDFs](https://github.com/kvamsi7/gen-ai-apps/tree/main/chat-with-pdf)**
 - **Description**: A Retrieval-Augmented Generation (RAG) system for PDF documents and chat history. This application allows users to upload PDFs, ask questions related to their content, and interact with the document data using context-aware responses. It combines PDF parsing, chat history management, and Groq LLM integration.
 - **Key Features**:
   - Uploads multiple PDF files and parses their content.
